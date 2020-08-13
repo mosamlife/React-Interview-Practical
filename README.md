@@ -1,4 +1,4 @@
-# React_exercise
+# React Practical Questions
 
 # Sort array in ascending order 
 
