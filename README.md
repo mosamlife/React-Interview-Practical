@@ -315,4 +315,9 @@
 
 values = 😀	😁	🤪 😀 😁
 
+# What is a higher order component? Create One higher order compoent which defines the proper usecase of HOC?
+
+# What is the best way to customise webpack config? 
+
+# What is the difference between Server Side Rendering and Single Page Application? 
 
