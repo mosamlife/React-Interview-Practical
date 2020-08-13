@@ -294,6 +294,9 @@
 
 
 ~~~~
+## Design the hero section and header component of web application in react.js,you can find the photoshop design file in the drive link mentioned below.
+ https://drive.google.com/file/d/1_CFIQH2Vgicevw4_Tuh4GShOS3Oixs08/view
+
 
 ## Which method do you prefer to clone an array, and why?
 * one: [...arr];
