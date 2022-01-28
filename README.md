@@ -7,6 +7,8 @@
 * array = 4,2,4,3,1,5
 * array = 0, 1, 2, 4, 8,5,8, 4, 2, 1, 0
 
+# Perform Luhn algoritham using core javascript
+
 
 # Sort comments
 * reply_id refers to comment id
